@@ -1,0 +1,11 @@
+[
+  {
+    "id": 1,
+    "title": "Som",
+    "description": "Examen recuperacion",
+    "date": "2025-05-21",
+    "priority": "high",
+    "category": "work",
+    "completed": false
+  }
+]
