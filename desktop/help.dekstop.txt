@@ -1,0 +1,30 @@
+For install the .dekstop u need to modify the routes 
+
+[Desktop Entry]
+Version=1.0
+Name=SimplyTask
+Comment=Un gestor de tareas simple y eficaz
+Exec=gnome-terminal --window-with-profile="name of new terminal profile" -- /Your/Route/SimplyTask.sh
+Icon=/home/cicles/bash/SimplyTask/Logo
+Terminal=true
+Type=Application
+Categories=Utility;
+
+
+
+The final step is create your own profile on the terminal
+
+1. go to the top right side and press the 3 lines
+
+2. then press preferents
+
+3. create a new profile and call it simplytask
+
+4. modify on your own like
+
+5. change the .desktop "name of new terminal profile" for simplytask
+
+6. Enjoy and tysm for usig simply task 
+
+
+Your tasks. Your terminal. Your control.

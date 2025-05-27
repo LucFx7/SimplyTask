@@ -1,0 +1,10 @@
+
+[Desktop Entry]
+Version=1.0
+Name=SimplyTask
+Comment=Un gestor de tareas simple y eficaz
+Exec=gnome-terminal --window-with-profile=SimplyTask -- /home/cicles/bash/SimplyTask/SimplyTask.sh
+Icon=/home/cicles/bash/SimplyTask/Logo
+Terminal=true
+Type=Application
+Categories=Utility;
